@@ -1,0 +1,18 @@
+Figma Link : https://www.figma.com/design/M1XOBhu7Fuw5eXBaO9Vnlg/MBooking---Movie-ticket-booking-app?node-id=87-11&p=f&t=WZja16Eks21rMnfD-0
+
+Package List :
+1.Firebase Database
+2.Carusoual
+3.Asyncstorage 
+4.Redux
+5.Env file
+✅6.i18
+
+Task
+✅1.Multi Language
+2.otp login
+3.google and facebook login(future)
+4.Botton Tab Navigation 
+5.Top Tab Navigation
+6.Ticket Booking
+7.Seat Reserve

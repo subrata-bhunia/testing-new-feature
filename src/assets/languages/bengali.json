@@ -1,0 +1,8 @@
+{
+  "translation": {
+    "welcome": "নমস্কার {{name}}",
+    "test": "টেস্টিং",
+    "use": "{{lang}} ব্যবহার করুন",
+    "English": "Bangla"
+  }
+}

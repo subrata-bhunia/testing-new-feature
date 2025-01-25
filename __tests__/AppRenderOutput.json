@@ -1,0 +1,41 @@
+{
+  "type": "View",
+  "props": {
+    "style": {
+      "alignItems": "center",
+      "justifyContent": "center",
+      "flex": 1,
+      "backgroundColor": "#fff"
+    }
+  },
+  "children": [
+    {
+      "type": "View",
+      "props": {
+        "style": {
+          "boxShadow": "inset 0px -5 25 15 rgba(0,0,255,0.1)",
+          "height": 80,
+          "backgroundColor": "#fff",
+          "width": "70%",
+          "borderRadius": 10
+        }
+      },
+      "children": [
+        {
+          "type": "Text",
+          "props": {
+            "style": {
+              "textAlign": "center",
+              "fontSize": 30,
+              "fontWeight": "bold",
+              "letterSpacing": 3
+            }
+          },
+          "children": [
+            "New Text"
+          ]
+        }
+      ]
+    }
+  ]
+}
